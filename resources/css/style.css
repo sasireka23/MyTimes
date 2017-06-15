@@ -189,6 +189,9 @@ body{
     height: 300px;
     margin-top: 15px;
     text-align: center;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
 }
 
 .imgsectionstory2{
@@ -202,6 +205,9 @@ body{
     height: 300px;
     margin-top: 15px;
     text-align: center;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
    
 }
 
@@ -225,6 +231,9 @@ body{
     height: 300px;
     margin-top: 15px;
     text-align: center;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
 }
 
 
