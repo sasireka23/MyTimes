@@ -20,6 +20,13 @@ body{
   color: black;
 }
 
+h2{
+	font-size: georgia;
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
 .logo{
 	
 	color: mediumaquamarine;
