@@ -24,6 +24,7 @@ h2{
 	font-size: georgia;
 	font-size: 30px;
 	font-weight: bold;
+	margin: 0px;
 
 }
 
@@ -62,6 +63,7 @@ h2{
 	padding-top: 116px;
 	margin-bottom: 78px;
 	z-index: 5;
+
 }
 
 .large{
@@ -154,12 +156,7 @@ h2{
 	height: 250px;
 }
 
-.storytitle1{
 
-	margin-top: 20px;
-	margin-bottom: 20px;
-
-}
 
 .storycontent1{
 
@@ -169,13 +166,7 @@ h2{
 	
 }
 
-.storytitle2{
 
-	margin-bottom: 20px;
-	margin-top: 20px:;
-
-
-}
 
 .storycontent2{
 
