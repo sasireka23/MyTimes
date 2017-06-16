@@ -8,8 +8,9 @@
 	width: 100%;
 	border-bottom: 1px solid black;
 	position: fixed;
-	z-index: 10;
-	
+	z-index: 1;
+	top: 0;
+	background-color: white;
 	
 }
 
@@ -62,7 +63,9 @@ h2{
 	display: flex;
 	padding-top: 116px;
 	margin-bottom: 78px;
-	z-index: 5;
+	
+
+	
 
 }
 
@@ -104,7 +107,6 @@ h2{
 .leadimgtitle{
 	margin-left: 20px;
 	
-
 }
 
 .narrativelead {
@@ -236,14 +238,6 @@ h2{
 
 
 
-
-.smallimgsection{
-
-	
-}
-
-
-
 .small{
 	display: flex;
 	width: 240px;
@@ -251,11 +245,7 @@ h2{
 	
 }
 
-.news{
 
-  
-  
-}
 
 .newsbites{
 
@@ -288,7 +278,8 @@ h2{
 	font-family: Verdana;
     font-size: 12px;
 	height: 325px;
-	z-index: 5;
+	
+	
 
 	
 }
